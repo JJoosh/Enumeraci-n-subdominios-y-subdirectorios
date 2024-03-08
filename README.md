@@ -1,5 +1,4 @@
-# Enumeraci-n-subdominios-y-subdirectorios
-
+# Enumeracion-subdominios-y-subdirectorios
 ## *Subdominios*
 
 > Un subdominio te permite dividir tu sitio web en varias secciones. Para ello, el nombre del subdominio se inserta en la dirección **delante del nombre del dominio (dominio de nivel superior) y separado por un punto**. La siguiente imagen ilustra esta estructura:
